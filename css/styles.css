@@ -21,10 +21,12 @@ h1 {
 }
 
 
- img {
-  border-radius: 100px;
-  height: 50px;
-  width: 50px;
+a img {
+
+   border-radius: 100px;
+   height: 50px;
+   width: 50px;
+
 
 }
 .container-fluid {
@@ -141,4 +143,9 @@ width: 70vw;
   border-radius: 25px;
   color: black;
 
+}
+
+.img-stats {
+  width: 200px;
+  height: 200px;
 }
