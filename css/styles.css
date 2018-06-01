@@ -76,3 +76,31 @@ h4:hover {
   font-size: 26px;
   align-items: center;
 }
+
+.museum {
+  font-size: 26px;
+  align-items: center;
+  padding: 50px;
+}
+
+.video {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  padding: 100px;
+  justify-content: center;
+}
+
+.video iframe {
+  border-radius: 20px;
+}
+
+
+footer a {
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
